@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'weu-lin-appsrv1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06319BDB910948969128C9A9AEFAF691 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0835C7C3185541C6B9908AA3037AA95F }}
           package: .
